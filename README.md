@@ -43,7 +43,7 @@ How to Use
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/sales-dashboard-powerbi.git
+git clone https://github.com/ShaikSameer0407/AmazonSalesDashboard.git
 
 
 Open the .pbix file in Power BI Desktop.
